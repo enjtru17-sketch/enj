@@ -1,0 +1,4 @@
+
+pillow==12.2.0
+
+streamlit==1.56.0
